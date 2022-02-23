@@ -1,0 +1,55 @@
+{
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
+  "editor.formatOnSave": true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Community Material Theme Darker",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#474787",
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#cf14f570",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#0fdb4288"
+  },
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontWeight": null,
+  "vscode-edge-devtools.mirrorEdits": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "explorer.confirmDelete": false,
+  "tailwindCSS.emmetCompletions": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "prettier.singleQuote": true,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace ",
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace ",
+  "vsicons.dontShowNewVersionMessage": true
+}
